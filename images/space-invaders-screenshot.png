@@ -1,0 +1,4 @@
+mkdir images
+git add README.md images/
+git commit -m "docs: polished README with gameplay screenshot"
+git push
